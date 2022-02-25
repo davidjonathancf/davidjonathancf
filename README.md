@@ -1,16 +1,7 @@
-### Hi there 👋
-
+### Hi, Sou David Jonathan 👋
 <
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  com manutenção de computadores
-- 🌱 I’m currently learning JavaScript, HTML e  CSS
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on com manutenção de computadores, mas pretendo traçar uma carreira com programador.
+- 🌱 I’m currently learning JavaScript, HTML e CSS.
+- 😄 Pronouns: Ele/Dele
+- ⚡ Fun fact: Amo entender como as coisas funcionam!
+>
