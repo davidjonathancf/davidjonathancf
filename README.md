@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning JavaScript, HTML e CSS.
 - ⚡ Fun fact: Amo entender como as coisas funcionam!
 
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/davidjonathancf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidjonathancf&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidjonathancf&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+</div-->
 
   <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
